@@ -1,0 +1,1 @@
+It made more sense to do all statistical evaluation in a single jupyter notebook. Hence, everything my proposal mentions under step 9 of "Evaluation" section is implemented in ../Step_8/StatisticalEvaluation.ipynb.
